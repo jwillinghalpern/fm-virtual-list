@@ -1,0 +1,4 @@
+﻿Timestamp	Filename	Error	Message
+2018-10-22 02:52:50.774 -0700	jwh_Virtual_List_VarRepetitions.fmp12	0	*** Started consistency check of improperly closed file, total of 481 block(s) to check
+2018-10-22 02:52:50.778 -0700	jwh_Virtual_List_VarRepetitions.fmp12	0	Reset maximum block sequence number to 153186
+2018-10-22 02:52:50.778 -0700	jwh_Virtual_List_VarRepetitions.fmp12	0	*** Completed consistency check, checked 481 block(s)
